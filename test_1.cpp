@@ -2,5 +2,5 @@
 
 int main()
 {
-    int test3 = 0;
+    int test4 = 0;
 }
